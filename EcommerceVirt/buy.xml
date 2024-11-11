@@ -39,6 +39,8 @@ else if (buystring == "Item 4")
  return "Item 3 Response"
 else if (buystring == "Item 5") 
  return "Item 5 Response"
+ else if (buystring == "Item 6") 
+ return "Item 6 Response"
 else
 return "Unknown Response" 
 	
