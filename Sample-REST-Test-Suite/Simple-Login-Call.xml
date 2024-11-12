@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:testCase xmlns:con="http://eviware.com/soapui/config" id="c3fbf613-f789-4fe0-a4e5-1757eba3ccc2" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Simple Login Call" searchProperties="true" timeout="0">
-  <con:description>Simple test can be used to show how easy it is to call a simple REST Service. You can have one or multiple REST endpoints that are not related to each other. This is commonly used when running integration tests.
+  <con:description id="36140a8b-918d-4d28-a00c-482622a5d9a9">Simple test can be used to show how easy it is to call a simple REST Service. You can have one or multiple REST endpoints that are not related to each other. This is commonly used when running integration tests.
 
 Steps:
 First step turns on Virtual REST Service

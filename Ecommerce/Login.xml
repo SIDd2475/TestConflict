@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:resource xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Login" path="/login/" id="ed379f4d-79f8-49ce-af8a-3340334b1790">
-  <con:settings>
+  <con:settings id="3dcef2be-8ccd-4ddd-8bd7-bd8a10e37a74">
     <con:setting id="ff930a3e-8923-4842-9db0-3e7356e664f9fileName">Login</con:setting>
     <con:setting id="ed379f4d-79f8-49ce-af8a-3340334b1790fileName">Login</con:setting>
   </con:settings>

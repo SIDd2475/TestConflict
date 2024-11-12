@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:resource xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="logout" path="/logout" id="31c45939-b06e-4b4c-a54f-d82acdc0f5c4">
-  <con:settings>
+  <con:settings id="188281c7-b689-408f-b0dd-b029e23357c7">
     <con:setting id="52f3bdd1-87fc-4ac1-b036-a674cf307ba7fileName">logout</con:setting>
     <con:setting id="31c45939-b06e-4b4c-a54f-d82acdc0f5c4fileName">logout</con:setting>
   </con:settings>

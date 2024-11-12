@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:resource xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="search" path="/search" id="c7e8a04a-0e4f-4b2c-b9af-5141a5175ed5">
-  <con:settings>
+  <con:settings id="9f3d67aa-6ff6-40cd-bf92-7483ecb71f23">
     <con:setting id="973a761d-2b4b-4b5b-9736-1d7d78ec9af3fileName">search</con:setting>
     <con:setting id="c7e8a04a-0e4f-4b2c-b9af-5141a5175ed5fileName">search</con:setting>
   </con:settings>

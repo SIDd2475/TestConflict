@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:testCase xmlns:con="http://eviware.com/soapui/config" id="144505c6-b03d-43d1-8f24-71eb41db11e3" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Integration Test" searchProperties="true" timeout="0">
-  <con:description>Integration tests are supposed to show how APIs work in a real world scenarios, integrating APIs together as a user would use an application in a workflow. In the following example we Login, Search for an Item, Buy the Item and then logout. We have strung these steps together
+  <con:description id="6ad85362-50cb-4c22-814b-1476f7c2200e">Integration tests are supposed to show how APIs work in a real world scenarios, integrating APIs together as a user would use an application in a workflow. In the following example we Login, Search for an Item, Buy the Item and then logout. We have strung these steps together
 with some of the tools easy to use feature (GET DATA: See Documentation) which allows you to easily pass values from a response to the next request.
 
 Steps:
